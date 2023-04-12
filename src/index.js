@@ -9,4 +9,4 @@ searchForm.addEventListener("submit", (e) => {
   fillWeatherInfo(searchField.value, "c");
 });
 
-fillWeatherInfo("Murmansk", "c");
+fillWeatherInfo("Riga", "c");
