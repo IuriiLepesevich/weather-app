@@ -2,9 +2,9 @@
 
 This project was build during TheOdinProject curriculum. Idea of this work is to learn how to use API calls, fetching data, Promises.
 
-## [Live Demo](https://iuriilepesevich.github.io/todo-list/)
+## [Live Demo](https://iuriilepesevich.github.io/weather-app/)
 
-![Website layout image](https://raw.githubusercontent.com/IuriiLepesevich/IuriiLepesevich/main/Images/todo-list.png)
+![Website layout image](https://raw.githubusercontent.com/IuriiLepesevich/IuriiLepesevich/main/Images/weather.png)
 
 ## Technologies used
 
